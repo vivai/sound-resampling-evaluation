@@ -5,4 +5,4 @@ This repo presents the tests Simon Schuler did for VIVAI
 
 Just take a look at the Jupyter Notebook. It probably takes some time to load in your browser. 
 
-Questions: simon.schuler@vivai.de or schuler.simon@gmx.net
+Questions: simon.schuler@vivai.de or s-schuler2@gmx.de
